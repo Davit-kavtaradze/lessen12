@@ -1,0 +1,370 @@
+
+.wraper{
+    width: 100%;
+    height: 158px;
+    background-color:#191A19;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    margin-left: 113px;
+}
+.ul-li{
+    color: white;
+    font-size: 24px;
+}
+.nav-ul{
+    display: flex;
+    width: 505px;
+    height: 65px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 218px;
+}
+.active{
+    color: #FF7420;
+}
+.line{
+    color: #FF7420;
+    margin-top: 9px;
+}
+.div-box{
+    width: 383px;
+    height: 66px;
+    display: flex;
+    margin-left: 120px;
+    justify-content: space-between;
+    align-items: center;
+}
+.child-div{
+    width: 106px;
+    height: 56px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.child-text{
+    color: white;
+    font-size: 24px;
+}
+.child-div2{
+    width: 194px;
+    height: 66px;
+    background-color: #FF7420;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    display: flex;
+}
+/* sectia1 */
+.poto{
+    width: 100%;
+}
+.section1{
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+.sec1-text{
+    font-size: 64px;
+    color: white;
+    position: absolute;
+    margin-top: 154px;
+    margin-left: 112px;
+    height: 96px;
+}
+.sec1-text1{
+    font-size: 64px;
+    color: white;
+    position: absolute;
+    margin-top: 249px;
+    margin-left: 112px;
+    height: 96px;
+}
+.div-orange{
+    width: 246px;
+    height: 66px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF7420;
+    position: absolute;
+    margin-top: 506px;
+    margin-left: 112px;
+}
+.white-div{
+    height: 66px;
+    border-radius: 15px;
+    margin-top: 506px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-left: 382px;
+    background-color: white;
+    width: 208px;
+}
+.oringe-text{
+    color: white;
+    font-size: 24px;
+}
+.white-text{
+    color: #191A19;
+    font-size: 24px;
+}
+.arrow{
+    margin-left: 10px;
+}
+.sec1-div{
+    width: 607px;
+    height: 80px;
+    position: absolute;
+    align-items: center;
+    margin-top: 351px;
+    margin-left: 102px;
+}
+.sec1-text2{
+    color: white;
+    font-size: 20px;
+    width: 587px;
+    height: 60px;
+}
+.line2{
+    color: greenyellow;
+}
+/* sectia2 */
+.section2{
+    width: 100%;
+    background-color: #FF7420;
+}
+.sec2-head{
+    font-size: 64px;
+    color: #191A19;
+    margin-top: 57px;
+    height: 96px;
+    margin-left: 200px;
+}
+.sec2-nav{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 300px;
+}
+.nav-text{
+    margin: 14px;
+    font-size: 20px;
+    color: white;
+}
+.black{
+    color: black;
+}
+.sec2-imgbox{
+    display: flex;
+    margin-top: 49px;
+    justify-content: center;
+    border-radius: 15px;
+}
+.imgbox{
+    width: 485.5px;
+    height: 613px;
+    border-radius: 15px;
+    display: flex;
+}
+.imiges{
+    border-radius: 15px;
+    display: flex;
+    position: relative;
+}
+.sec2text{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    margin-top: 522px;
+}
+.sec2text2{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    margin-top: 561px;
+}
+.boxes{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 18px;
+}
+.sec2text{
+    display: flex;
+    width: 251px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.text3{
+    font-size: 20px;
+    color: #191A19;
+}
+.secdivtext{
+    width: 251px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 1500px;
+}
+.section3{
+    background-color: #191A19;
+    width: 100%;
+    margin: 0 auto;
+}
+.text-box{
+    width: 301px;
+    height: 52px;
+    margin-top: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    color: #FF7420;
+}
+.text-box1{
+    width: 900px;
+    height: 90px;
+    margin-top: 28px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.text-box2{
+    width: 138px;
+    height: 30px;
+    margin-top: 14px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.text-box3{
+    width: 109px;
+    height: 24px;
+    margin-top: 8px;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+}
+.popo{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 800px;
+}
+.secion-bg{
+    width: 100%;
+    background-color: #191A19;
+    height: 1289px;
+}
+.div-box{
+    width: 1503px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.left-div{
+    width: 963px;
+    height: 661px;
+    background-color: #FF7420;
+    border-radius: 15px;
+}
+.row1{
+    width: 856px;
+    margin-left: 58px;
+    margin-top: 18px;
+    height: 76px;
+    display: flex;
+    justify-content: space-between;
+}
+.row1-child{
+    width: 419px;
+    height: 76px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 65.25px
+}
+.row1-child::placeholder{
+    color: #191A19;
+    font-size: 20px;
+}
+.child-box{
+    width: 856px;
+    height: 148px;
+    border-radius: 15px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 18px;
+    margin-left: 58px;
+}
+.child-box::placeholder{
+    font-size: 20px;
+    color: #191A19 50%;
+    padding: 24px 64px;
+}
+.button{
+    width: 856px;
+    height: 76px;
+    background-color: #191A19;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: 58px;
+    margin-top: 24px;
+}
+input[type=submit]
+{
+    border: none;
+    background-color: #191A19;
+    color:white;
+    font-size: 20px;
+}
+/* /////// */
+.right-div{
+    width: 499px;
+    height: 661px;
+    background-color: #FF7420;
+    border-radius: 15px;
+}
+.info-box{
+    width: 355px;
+    height: 378px;
+    margin-left: 64px;
+}
+.contact{
+    width: 355px;
+    height: 82px;
+    margin-top: 24px;
+}
+.right-boxtext{
+    width: 355px;
+    color: white;
+    margin-top: 24px;
+}
+.conect{
+    width: 384px;
+    height: 76px;
+    background-color: #191A19;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+    display: flex;
+    margin-top: 95px;
+}
+.davigale{
+    background-color: #191A19;
+    border: none;
+}
